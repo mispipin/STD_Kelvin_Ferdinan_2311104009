@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1728469188 source:c:\users\legion\onedrive - ypt.or.id\sem3\strukdat\tp02_kelvin ferdinan\pelajaran\main.cpp
+	<iostream>
+	"pelajaran.h"
+
+1728469188 c:\users\legion\onedrive - ypt.or.id\sem3\strukdat\tp02_kelvin ferdinan\pelajaran\include\pelajaran.h
+	<string>
+
+1728469188 source:c:\users\legion\onedrive - ypt.or.id\sem3\strukdat\tp02_kelvin ferdinan\pelajaran\src\pelajaran.cpp
+	<iostream>
+	"pelajaran.h"
+
