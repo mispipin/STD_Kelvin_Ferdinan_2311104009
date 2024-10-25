@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1729652470 source:c:\users\legion\onedrive - ypt.or.id\sem3\strukdat\tp04_kelvin ferdinan\tp\1\src\list.cpp
+	<iostream>
+	"list.h"
+
+1729652470 c:\users\legion\onedrive - ypt.or.id\sem3\strukdat\tp04_kelvin ferdinan\tp\1\include\list.h
+	<iostream>
+
+1729652836 source:c:\users\legion\onedrive - ypt.or.id\sem3\strukdat\tp04_kelvin ferdinan\tp\1\main.cpp
+	<iostream>
+	"list.h"
+
