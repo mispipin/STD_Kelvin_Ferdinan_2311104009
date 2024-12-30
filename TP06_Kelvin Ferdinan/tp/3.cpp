@@ -18,7 +18,7 @@ public:
         tail = nullptr;
     }
 
-    void insertLast2311104018(int data) {
+    void insertLast2311104009(int data) {
         Node* newNode = new Node;
         newNode->data = data;
         newNode->next = nullptr;
@@ -32,7 +32,7 @@ public:
         tail = newNode;
     }
 
-    void displayForward2311104018() {
+    void displayForward2311104009() {
         if (head == nullptr) {
             cout << "List is empty." << endl;
             return;
@@ -47,7 +47,7 @@ public:
         cout << endl;
     }
 
-    void displayBackward2311104018() {
+    void displayBackward2311104009() {
         if (tail == nullptr) {
             cout << "List is empty." << endl;
             return;
